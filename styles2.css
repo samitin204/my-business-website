@@ -1,0 +1,25 @@
+/* Custom Styles */
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+.hero {
+  background: url('hero.jpg') no-repeat center center/cover;
+  color: #fff;
+  padding: 150px 20px;
+  text-align: center;
+}
+
+.btn {
+  background: #007bff;
+  color: #fff;
+  padding: 10px 20px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.btn:hover {
+  background: #0056b3;
+}
